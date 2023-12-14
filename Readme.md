@@ -21,19 +21,14 @@ chmod u+x finalshell_install_linux.sh
 ./finalshell_install_linux.sh
 
 4.finalshell安装成功
-
-![Screenshot_20231214_193331.png](/home/lsw/图片/Screenshot_20231214_193331.png)
+![Screenshot_20231214_193331](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/c2fdb778-e02e-4c20-8203-afc25094e069)
 
 5.打开finalshell，连接阿里云服务器
-
-![Screenshot_20231214_193444.png](/home/lsw/图片/Screenshot_20231214_193444.png)
-
-![Screenshot_20231214_193528.png](/home/lsw/图片/Screenshot_20231214_193528.png)
+![Screenshot_20231214_193528](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/b8bb2f50-2a07-4717-97b1-bc4f6c7d5f5a)
+![Screenshot_20231214_193444](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/fb094330-6b57-465a-9b45-b69c67dbb8a9)
 
 6.输入阿里云公网IP地址114.55.229.122，端口号默认不用改，用户名随意填，密码可以在阿里云服务器中重新设置
-
-![Screenshot_20231214_193709.png](/home/lsw/图片/Screenshot_20231214_193709.png)
+![Screenshot_20231214_193709](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/c6a5e636-97de-44d3-86e4-b796a9affcb5)
 
 7.连接成功
-
-![](/home/lsw/snap/marktext/9/.config/marktext/images/2023-12-14-19-40-17-image.png)
+![Screenshot_20231214_193826](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/f243485c-c12f-4d9a-a57f-b3b61fe78f91)
