@@ -10,9 +10,9 @@
 ```
 docker run --rm -it -p 1935:1935 -p 1985:1985 -p 8080:8080 \
     registry.cn-hangzhou.aliyuncs.com/ossrs/srs:5
-```
-<img src="https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/838af85f-243b-4c42-a0ea-0d2a42f06cf7" alt="Image" width="300" height="200">
-![Screenshot_20231219_114039](https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/838af85f-243b-4c42-a0ea-0d2a42f06cf7)=300x200
+```  
+<img src="https://github.com/shizishen/SRS-Streaming-Server/assets/85082613/838af85f-243b-4c42-a0ea-0d2a42f06cf7" alt="Image" width="600" height="400">
+
 ## 2.2.在自己电脑上使用ffmpeg的docker推流，或者也可以使用obs软件推流
 （注意：服务器的对应端口一定要打开，很多教程没有说明，第一次使用服务器不知道，很坑，去阿里云获或者腾讯云的防火墙设置里打开1935的端口，因为按照该教程，默认使用的是器1935的端口）
 ```
