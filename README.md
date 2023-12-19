@@ -17,9 +17,12 @@ docker run --rm -it registry.cn-hangzhou.aliyuncs.com/ossrs/srs:encoder \
 ffmpeg -re -i ./doc/source.flv -c copy -f flv rtmp://localhost/live/livestream
 ## 2.3.使用浏览器拉流：
 localhost替换成自己服务器的ip
+```
 RTMP (by VLC): rtmp://localhost/live/livestream
 H5(HTTP-FLV): http://localhost:8080/live/livestream.flv
 H5(HLS): http://localhost:8080/live/livestream.m3u8
+```
+
 
 感谢以下博客：
 [使用docker镜像部署SRS](https://ossrs.net/lts/zh-cn/docs/v6/doc/getting-started)
