@@ -1,6 +1,6 @@
 配置环境：ubuntu22.04
 
-#注册使用阿里云服务器
+# 注册使用阿里云服务器
 
 [阿里云免费试用 - 阿里云](https://free.aliyun.com/?spm=5176.28508143.J_ahRFo5CaAe_asSOaCgS4J.8.5421154ayOo0mW)
 
@@ -8,7 +8,7 @@
 
 2.选择好自己需要的系统和配置之后，点击试用后，在自己的实例中可以查看到自己的公网ip地址，例如114.55.229.122
 
-#finalshell连接阿里云服务器
+# finalshell连接阿里云服务器
 
 1.[下载脚本](http://www.hostbuf.com/downloads/finalshell_install_linux.sh)
 
